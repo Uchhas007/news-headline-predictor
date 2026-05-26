@@ -44,7 +44,12 @@ The dataset consists of real-world HTML-formatted news headlines, each labelled 
 ---
 
 ## 📊 Dataset
+## 📊 Dataset
 
+This project uses a news headline dataset hosted on Kaggle.  
+All data can be accessed and downloaded from the following link:
+
+https://www.kaggle.com/datasets/uchhas007/news-headline-dataset
 ### Source & Format
 
 The dataset is provided as two pre-split CSV files:
